@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "comment": "This file contains Becker-Hickl TCSPC-FLIM acquisition settings for the corresponding .spc file",
+    "enabled_channels": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "raster_width": 256,
+    "raster_height": 256,
+    "pixel_rate_hz": 200000.0,
+    "macrotime_units_1_10_ns": 250,
+    "line_delay_macrotime_units": 0,
+    "line_time_macrotime_units": 51200,
+    "line_marker_bit": 1,
+    "frame_marker_bit": 2
+}
